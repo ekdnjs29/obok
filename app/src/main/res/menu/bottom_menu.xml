@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_home"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="home"/>
+    <item
+        android:id="@+id/btn_medical"
+        android:enabled="true"
+        android:icon="@drawable/baseline_navigation_24"
+        android:title="medical"/>
+    <item
+        android:id="@+id/btn_pet"
+        android:enabled="true"
+        android:icon="@drawable/baseline_add_circle_outline_24"
+        android:title="pet"/>
+    <item
+        android:id="@+id/btn_alarm"
+        android:enabled="true"
+        android:icon="@drawable/baseline_notifications_none_24"
+        android:title="alram"/>
+    <item
+        android:id="@+id/btn_UserSetting"
+        android:enabled="true"
+        android:icon="@drawable/baseline_perm_identity_24"
+        android:title="user"/>
+
+
+</menu>
